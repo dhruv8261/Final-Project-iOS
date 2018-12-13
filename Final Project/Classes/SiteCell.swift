@@ -3,7 +3,7 @@
 //  Week 12 Application 2 Tables
 //
 //  Created by Xcode User on 2018-12-03.
-//  Copyright © 2018 Sheridancollege. All rights reserved.
+//  Copyright © 2018 Dhruv Patel. All rights reserved.
 //
 
 import UIKit
